@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shuboooom
-- 👀 I’m interested in Developing apps that looks good and follow proper android architecture
+- 👀 I’m interested in developing Android Apps.
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Chatting app using firebase
 - 📫 How to reach me : shubhammourya80@gmail.com
 
 <!---
